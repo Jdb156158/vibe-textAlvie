@@ -1,0 +1,1 @@
+{"name":"type-microinteractions","private":true,"type":"module","scripts":{"stills":"node render.mjs","render":"node render.mjs full"},"dependencies":{"playwright":"^1.56.0"}}
